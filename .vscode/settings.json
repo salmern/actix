@@ -7,6 +7,6 @@
         "./Cargo.toml",
         "./Cargo.toml"
     ],
-    "editor.inlineSuggest.showToolbar": "always",
+    "editor.inlineSuggest.showToolbar": "onHover",
     "editor.inlayHints.enabled": "offUnlessPressed"
 }
